@@ -1,0 +1,8 @@
+
+{
+  "name": "EcoRide - Smart Carpooling Platform",
+  "description": "A sustainable urban mobility platform that matches riders to reduce traffic congestion and CO2 emissions using intelligent route matching and impact tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
